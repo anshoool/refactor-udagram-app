@@ -16,6 +16,7 @@ Open a new terminal within the project directory and run:
 4. Run the container: <code>docker-compose up</code>
 
 <h4>Setup k8s Environment</h4>
+
 1. Create the cluster: <code>eksctl create cluster --name udagram</code>
 2. Create travis-user: <code>eksctl create iamidentitymapping --name udagram --role <Your_Role_ARN> --group system:masters --username <Your_Username></code>
 3. Run the ci/cd-pipeline
