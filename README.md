@@ -4,7 +4,8 @@ This project was a part of my Cloud Developer Nanodegree by Udacity.
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 <h2><b>Tasks</b></h2>
-<h4>Setup Docker Environment<h4>
+
+<h4>Setup Docker Environment</h4>
 
 You'll need to install docker https://docs.docker.com/install/. 
 Open a new terminal within the project directory and run:
